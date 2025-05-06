@@ -43,4 +43,4 @@ Create Your Own Social Media Marketing Bot Via Bjs Use Bots.business To Create B
 <br>
 <b>Uploaded By FlashCom Team. </b>
 
-<a href="https://t.me/flashcomtemplates">Join FlashCom Channel For More Information</a>
+<a href="https://t.me/flashcomofficial">Join FlashCom Channel For More Information</a>
